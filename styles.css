@@ -1,6 +1,14 @@
 #container {
     position: relative;
     left: 200px;
-    width: auto;
-    height: auto;
+    top: 50px;
+    width: 960px;
+    height: 960px;
+}
+
+#newGrid {
+    position: relative;
+    top: 20px;
+    left: 575px;
+    width: 100px;
 }
