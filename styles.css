@@ -1,6 +1,6 @@
 #container {
     position: relative;
-    left: 400px;
+    left: 450px;
     top: 50px;
     width: 960px;
     height: 960px;
@@ -9,6 +9,6 @@
 #newGrid {
     position: relative;
     top: 20px;
-    left: 800px;
+    left: 850px;
     width: 100px;
 }
